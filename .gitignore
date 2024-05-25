@@ -1,0 +1,6 @@
+**/__pycache__/
+
+# Tests that include sensible data
+/tests/data
+/tests/*clear.py
+/tests/*rico.py
