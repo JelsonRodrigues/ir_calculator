@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+camelot-py
+pdfminer.six
+PyPDF2
+ghostscript
+opencv-python
+openpyxl
+odfpy
